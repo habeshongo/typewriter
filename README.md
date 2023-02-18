@@ -1,0 +1,2 @@
+# typewriter
+Animate a sentence.
